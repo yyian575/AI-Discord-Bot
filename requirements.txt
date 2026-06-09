@@ -1,0 +1,5 @@
+discord.py
+yfinance
+matplotlib
+python-dotenv
+google-generativeai
